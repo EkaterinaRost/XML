@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<greeting>Hi!</greeting>
+<person>
+<firstname>Katya</firstname>
+<lastname>Rostovskay<lastname>
+<age>30</age>
+<desired salary>70000</desired salary>
+<city>St.Petersburg</city>
+<pet>1</pet>
+</person>
